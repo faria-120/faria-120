@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faria-120&label=Profile%20views&color=0e75b6&style=flat" alt="faria-120" /> </p>
 
-- 🔭 I’m currently working on **Student**
+- 🔭 I’m currently working on Student
 
-- 🌱 I’m currently learning **c and c++**
+- 🌱 I’m currently learning c and c++
 
-- 💬 Ask me about **anything related with c and c++**
+- 💬 Ask me about **anything related with c and c++
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
